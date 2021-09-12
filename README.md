@@ -1,5 +1,7 @@
 ### Hey I'm Allen
-## Welcome!
+## Always biting off more than I can chew
+
+![me](pikachu-icegif-3.gif)
 
 <!--
 **allenfu97/allenfu97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
